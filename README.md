@@ -5,3 +5,5 @@
 
  https://github.com/adafruit/DHT-sensor-library
  https://github.com/adafruit/Adafruit_Sensor
+
+For more details visit: https://kucadevelopment.wordpress.com/esp32_dht11_dht22/
